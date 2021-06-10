@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1621186567792" clover="3.2.0">
+  <project timestamp="1621186567792" name="All files">
+    <metrics statements="27" coveredstatements="26" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6" elements="33" coveredelements="32" complexity="0" loc="27" ncloc="27" packages="2" files="2" classes="2"/>
+    <package name="controllers">
+      <metrics statements="24" coveredstatements="23" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <file name="todosController.js" path="D:\skylab\bootcamp\skylab-bootcamp-202104-bcn\josep-suarez\wuiz\backend\src\controllers\todosController.js">
+        <metrics statements="24" coveredstatements="23" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="model">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="todoModel.js" path="D:\skylab\bootcamp\skylab-bootcamp-202104-bcn\josep-suarez\wuiz\backend\src\model\todoModel.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
