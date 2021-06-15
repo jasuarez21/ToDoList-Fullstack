@@ -3,7 +3,7 @@
 ## Test
 - Tested with Jest
 - Coverage 100%
-- 
+
 ## Built using:
 ### Backend
 - Node.js
